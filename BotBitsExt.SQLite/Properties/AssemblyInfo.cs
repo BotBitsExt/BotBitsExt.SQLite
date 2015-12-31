@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BotBitsExt.SQLite")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("sqlite-net wrapper and SQLite database permission provider for BotBits.Permission")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Tunous")]
 [assembly: AssemblyProduct("BotBitsExt.SQLite")]
